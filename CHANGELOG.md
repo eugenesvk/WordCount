@@ -1,6 +1,6 @@
 # Wording Status
 
-## Unreleased
+## 2.2.0
 
 - Add `Command Palette` commands to open settings files `Preferences: WordingStatus Settings` or `WordingStatus Settings: User`/`WordingStatus Settings: Default`
 - 🐞 don't leave old statusbar messages when changing its position via `status_order_prefix`
